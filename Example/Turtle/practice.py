@@ -15,4 +15,4 @@ t.right(90)
 t.forward(200)
 t.circle(50)
 
-turtle.exitonclick() # turtle Ã¢ÀÌ Å¬¸¯½Ã ²¨Áü
+turtle.exitonclick()

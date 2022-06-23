@@ -6,4 +6,4 @@ for i in range(0,4):
   t.forward(200)
   t.right(45)
 
-turtle.exitonclick() # turtle Ã¢ÀÌ Å¬¸¯½Ã ²¨Áü
+turtle.exitonclick()
