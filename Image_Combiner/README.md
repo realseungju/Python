@@ -5,6 +5,7 @@ Tools for combining images horizontally and converting images to different exten
   *Please create directories with this Python file.
 
 *Your Path
+
 ┕
 
   *Image_Combiner.py
