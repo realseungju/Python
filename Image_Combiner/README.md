@@ -14,9 +14,9 @@ Tools for combining images horizontally and converting images to different exten
   
 ##### b (folder) -> Image to be designated as right
   
-##### convert_result -> Converted Images
+##### convert_result (folder) -> Converted Images
   
-##### result -> Combined Images
+##### result (folder) -> Combined Images
 
 ##### Modify the path in Python, and specify the image as a number starting from zero.
 ##### Example. 0.jpg, 1.jpg, 2.jpg .. etc
